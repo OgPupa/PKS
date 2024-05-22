@@ -59,7 +59,7 @@ namespace pks4.Controllers
     }
 }
 
-namespace YourProjectName.Models
+namespace pks4.Models
 {
     public class MessagesViewModel
     {
