@@ -7,7 +7,7 @@ using YourProjectName.Data;
 using YourProjectName.Models;
 using System.Collections.Generic;
 
-namespace YourProjectName.Controllers
+namespace pks4.Controllers
 {
     public class MessagesController : Controller
     {
